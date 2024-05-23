@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "food-app",
+    "name": "FoodyBuddy",
     "slug": "food-app",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -21,10 +21,16 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.surya0310.foodapp"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "1b95e2ca-5c08-4dd6-a772-bae4667e85c7"
+      }
     }
   }
 }
