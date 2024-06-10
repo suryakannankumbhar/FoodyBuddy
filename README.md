@@ -1,5 +1,5 @@
 
-[<img src="./src/readme/banner.gif" />](https://suryakannankumbhar.netlify.app/)
+[<img src="./assets/readme/banner.gif" />](https://suryakannankumbhar.netlify.app/)
 <br />
 <h1 align="center">Foddy Buddy</h1>
 
@@ -32,14 +32,14 @@ Try It Now!!
 </div>
 <br />
 <h3>Some Snaps of the App:</h3>
-<kbd><img src="./src/readme/Screenshot1.png" width="750" title=""></kbd>
-<kbd><img src="./src/readme/Screenshot2.png" width="750" title=""></kbd>
-<kbd><img src="./src/readme/Screenshot3.png" width="750" title=""></kbd>
-<kbd><img src="./src/readme/Screenshot4.png" width="750" title=""></kbd>
-<kbd><img src="./src/readme/Screenshot5.png" width="750" title=""></kbd>
-<kbd><img src="./src/readme/Screenshot6.png" width="750" title=""></kbd>
-<kbd><img src="./src/readme/Screenshot7.png" width="750" title=""></kbd>
-
+<kbd><img src="./assets/readme/1.jpeg" width="300" title=""></kbd>
+<kbd><img src="./assets/readme/2.jpeg" width="300" title=""></kbd>
+<kbd><img src="./assets/readme/3.jpeg" width="300" title=""></kbd>
+<kbd><img src="./assets/readme/4.jpeg" width="300" title=""></kbd>
+<kbd><img src="./assets/readme/5.jpeg" width="300" title=""></kbd>
+<kbd><img src="./assets/readme/6.jpeg" width="300" title=""></kbd>
+<kbd><img src="./assets/readme/7.jpeg" width="300" title=""></kbd>
+<kbd><img src="./assets/readme/8.jpeg" width="300" title=""></kbd>
 <br >
 <h3>Some GitHub Stats</h3>
 <p align="center"><a href="https://github.com/suryakannankumbhar/github-readme-stats"><img alt="Surya's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=suryakannankumbhar&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a></p>
